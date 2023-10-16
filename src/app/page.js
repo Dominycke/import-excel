@@ -1,7 +1,7 @@
-import Excel from './components/Excel'
+import Tabla from './components/Tabla'
 
 export default function Home() {
   return (
-    <Excel />
+    <Tabla />
   )
 }
